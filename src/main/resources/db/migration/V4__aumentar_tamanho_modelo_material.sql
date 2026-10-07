@@ -1,0 +1,2 @@
+ALTER TABLE material
+    MODIFY modelo VARCHAR(150) NULL;

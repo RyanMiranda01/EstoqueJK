@@ -1,0 +1,23 @@
+# Frontend mantido localmente, fora deste repositório backend-only
+/frontend/
+/iniciar-estoque.bat
+/HELP.md
+
+# Build e arquivos locais
+/target/
+/.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Configurações e credenciais locais
+.env
+.env.*
+!.env.example
+application-local.properties
+
+# Maven Wrapper JAR (baixado automaticamente pelo wrapper)
+.mvn/wrapper/maven-wrapper.jar

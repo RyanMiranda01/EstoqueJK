@@ -1,0 +1,2 @@
+ALTER TABLE movimentacoes
+    MODIFY tipo VARCHAR(20) NOT NULL;
